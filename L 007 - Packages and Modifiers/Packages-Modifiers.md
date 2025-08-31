@@ -22,7 +22,7 @@ System is available in java lang package.
 
 In java, we use a specific format for defining the package names.
 Standard-> domain.company.package
-Example-> com.youtube.shashwat
+Example-> com.youtube.Mrunal
 
 Note: lang package is imported by default.
 
